@@ -12,3 +12,10 @@ Python + Playwright automation testing project.
 ## How to run
 1. Install dependencies
 2. Run tests using pytest
+
+# SSH keys (security)
+*.pem
+*.key
+*.pub
+PythonTestPro
+
