@@ -1,3 +1,5 @@
+![CI](https://github.com/RDVishnoi/PythonTestPro/actions/workflows/playwright-ci.yml/badge.svg)
+
 nano README.md
 
 # PythonTestPro
