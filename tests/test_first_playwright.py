@@ -5,7 +5,7 @@ def test_open_google():
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
 
-        page.goto("https://www.google.com")
+        page.goto("https://www.googl.com")
 
         assert "Google" in page.title()
 
