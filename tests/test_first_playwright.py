@@ -9,7 +9,7 @@ def test_open_google():
 
         assert "Google" in page.title()
 
-        page.wait_for_timeout(3000)
+        page.wait_for_timeout(4000)
 
         browser.close()
 
